@@ -1,5 +1,5 @@
 # replacename
-## Overview
+## Overview 📄
 
 **Usage video(ENU AI generated):** <br> 
 replacename
@@ -7,14 +7,14 @@ replacename
 **Usage video(ESP):** <br> 
 replacename<br>
 
-## Features
+## Features ✨
 
-## Prerequisites
+## Prerequisites 📋
 
-## Installation
+## Installation 💾
 
-## Configuration
+## Configuration ⚙️
 
-### Configuration Example
+## Usage 🎛️
 
-## Usage
+## Workflow 🔄
